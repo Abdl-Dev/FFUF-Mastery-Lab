@@ -1,0 +1,6 @@
+# Generated reports (don't commit)
+*.json
+*.html
+__pycache__/
+*.pyc
+.DS_Store
